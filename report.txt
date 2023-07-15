@@ -1,0 +1,23 @@
+Greetings Ms.Rajabi,
+
+Here is your interview task report:
+
+* nice design,
+* nice utility folder structure,
+* nice axios config
+* nice tailwind setup
+* nice form flow
+
+you may need to:
+
+* use absolute paths
+* use app dir patterns (page.tsx, route.tsx, layout.tsx, error.tsx and etc)
+* use more secure auth patterns (httpOnly cookies, middlewares , next built-in api routes and etc)
+* use more modern fetching technologies like swr/react-query/redux-toolkit query
+* use state manager
+
+
+overally, well done!
+
+Regards,
+Ali Rabiee
